@@ -41,7 +41,7 @@ class bml_turboheaders {
 	public function __construct() {
 		// Plugin Details
         $this->plugin = new stdClass;
-        $this->plugin->name = 'hotjar'; // Plugin Folder
+        $this->plugin->name = 'hotjar-connecticator'; // Plugin Folder
         $this->plugin->displayName = 'Hotjar Connecticator'; // Plugin Name
         $this->plugin->version = '1.0';
         $this->plugin->folder = WP_PLUGIN_DIR.'/'.$this->plugin->name; // Full Path to Plugin Folder
