@@ -60,7 +60,7 @@ A. No. But the awesome Hotjar Team are aware of us creating this third party plu
 Disclaimer: This plugin is created and maintained only by the authors at Blue Medicine Labs. Reference to Hotjar and use of any brand elements does not equate to endorsement.
 
 
-= Q. I installed the plugin. Where do I paste in my Hotjar script now?
+= Q. I installed the plugin. Where do I paste in my Hotjar script now? =
 
 A. You can find the plugin in the WordPress menu under `Settings > Hotjar Connecticator`
 
