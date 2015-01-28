@@ -16,7 +16,7 @@ This plugin makes it very fast, simple, and easy to your Hotjar script code to y
 
 = How to use Hotjar Connecticator =
 
-* You must have a Hotjar account to use this plugin *
+*You must have a Hotjar account to use this plugin*
 
 1. Get your Hotjar code from your Hotjar account. 
 
